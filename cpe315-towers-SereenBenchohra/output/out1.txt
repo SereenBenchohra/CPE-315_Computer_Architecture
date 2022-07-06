@@ -1,0 +1,4 @@
+Enter number of discs to be moved: 1
+Move from peg 1 to peg 3
+
+1 discs moved from peg 1 to peg 3 in 1 steps.

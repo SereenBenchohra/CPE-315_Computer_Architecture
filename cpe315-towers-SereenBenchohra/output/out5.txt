@@ -1,0 +1,34 @@
+Enter number of discs to be moved: 5
+Move from peg 1 to peg 3
+Move from peg 1 to peg 2
+Move from peg 3 to peg 2
+Move from peg 1 to peg 3
+Move from peg 2 to peg 1
+Move from peg 2 to peg 3
+Move from peg 1 to peg 3
+Move from peg 1 to peg 2
+Move from peg 3 to peg 2
+Move from peg 3 to peg 1
+Move from peg 2 to peg 1
+Move from peg 3 to peg 2
+Move from peg 1 to peg 3
+Move from peg 1 to peg 2
+Move from peg 3 to peg 2
+Move from peg 1 to peg 3
+Move from peg 2 to peg 1
+Move from peg 2 to peg 3
+Move from peg 1 to peg 3
+Move from peg 2 to peg 1
+Move from peg 3 to peg 2
+Move from peg 3 to peg 1
+Move from peg 2 to peg 1
+Move from peg 2 to peg 3
+Move from peg 1 to peg 3
+Move from peg 1 to peg 2
+Move from peg 3 to peg 2
+Move from peg 1 to peg 3
+Move from peg 2 to peg 1
+Move from peg 2 to peg 3
+Move from peg 1 to peg 3
+
+5 discs moved from peg 1 to peg 3 in 31 steps.
